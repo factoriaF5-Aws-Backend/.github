@@ -1,5 +1,7 @@
 # 🚀 **Factoría F5 - Bootcamp Backend & Cloud con AWS**
 
+![Factoría F5](coverrdit.webp)
+
 Bienvenido al **Bootcamp Backend y Cloud en AWS** organizado por **Factoría F5** en colaboración con la **Fundación Cellnex** y **AWS re/Start**. Este programa intensivo está diseñado para formar a personas en situación de vulnerabilidad social o económica en habilidades avanzadas de programación backend y tecnologías en la nube (AWS), brindando acceso a oportunidades en el creciente mercado tecnológico.
 
 ## 📚 **Descripción del Bootcamp**
